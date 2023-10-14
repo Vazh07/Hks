@@ -1,0 +1,40 @@
+{
+    "Qty": 207,
+    "Source": "https://www.creativindie.com/100:haikus:about:life:love:inspiration:passion:and:creativity/",
+    "Author": "207 haikus",
+    "content":{
+        "title": "10 famous historical haiku poems",
+        "poems": [
+            {
+                "Matsuo Basho": "An old pond / A frog jumps in / The sound of water"
+            },
+            {
+                "Yosa Buson": "Winter solitude - / in a world of one color / the sound of wind"
+            },
+            {
+                "Kobayashi Issa": "The world of dew / is the world of dew / and yet, and yet..."
+            },
+            {
+                "Takahama Kyoshi": "First snow / falling / on the half-finished bridge"
+            },
+            {
+                "Masaoka Shiki": "The cicada's cry / drills into / the rocks"
+            },
+            {
+                "Li Bai": "The bright moon / lifts from the mountains' shadow / and stands alone in the sky"
+            },
+            {
+                "Du Fu": "Amidst the flowers / a jug of wine, / I pour alone - / no friend with me."
+            },
+            {
+                "Onitsura": "Into the sea breeze / All the flowers / Of the wild cherry."
+            },
+            {
+                "Sojo Henjo": "On a withered branch / A crow has alighted: / Nightfall in autumn."
+            },
+            {
+                "Kaga no Chiyo": "On the white sand / A pillow of moonlight / In every direction."
+            }
+        ]
+    }
+}
