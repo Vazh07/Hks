@@ -40,23 +40,5 @@ def executeMain():
         print("End of program")
 
 if __name__=='__main__':
-    # Set your OpenAI API key
-    api_key = 'YOUR_API_KEY_HERE'
-
-    # Initialize the OpenAI API client
-    openai.api_key = api_key
-
-    # Prompt for the model to generate text
-    prompt = "Translate the following English text to French: 'Hello, how are you?'"
-
-    # Use the model to generate text
-    response = openai.Completion.create(
-        engine="text-davinci-002",  # GPT-3.5 Turbo
-        prompt=prompt,
-        max_tokens=50  # Adjust as needed
-    )
-
-    # Extract and print the generated text
-    generated_text = response.choices[0].text
-    print(generated_text)
+    pass
     #executeMain()
